@@ -1,0 +1,2 @@
+# webdev
+Hi, these will be a collection of websites that I have created. One was a site created to demonstrate my skills learned in AP Computer Science Principles, the other two were from a web design contest I entered. One year I did not even place at all, the next year I won first place. I would like some constructive criticism on the organization of the code and other effective ways to make each look professional as I would like to improve on each to show growth as apart of my portfolio. Thank you.   
